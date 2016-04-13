@@ -1,0 +1,6 @@
+[package]
+name = "fla_log_parser"
+version = "0.1.0"
+authors = ["Gavin Bauer <gb1035@gmail.com>"]
+
+[dependencies]
