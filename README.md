@@ -1,4 +1,4 @@
-Reverse Engineer's Network Analysis
+Reverse Engineer's Network Analyzer
 ==============
 
 A tool to help you reverse engineer network traffic
